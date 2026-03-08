@@ -53,13 +53,13 @@ MyPortfolio004
 ## Demo
 test_login.py - Total 6 Test Cases ->  3 Test Cases Run on FireFox browser & 3 Test Cases Run on Chrome browser
 <img width="1857" height="941" alt="test_login_result" src="https://github.com/user-attachments/assets/2c812149-6e59-46c3-bafb-ba329ba9a618" />
-https://github.com/user-attachments/assets/069e95cc-841b-4565-8000-bab7d4a7f6b8
+https://github.com/user-attachments/assets/069e95cc-841b-4565-8000-bab7d4a7f6b8  (Click the link to view the short video demo)
 
 
 
 test_purchase_product.py - Total 4 Test Cases ->  2 Test Cases Run on Firefox browser & 2 Test Cases Run on Chrome browser (Expected to Have Failed  Test Cases)
 <img width="1910" height="615" alt="test_PurchaseProduct_result" src="https://github.com/user-attachments/assets/7c78021d-b369-4143-8c47-3372b363e564" />
-https://github.com/user-attachments/assets/daf5c623-dbc0-4d98-ac52-874cd9d71754
+https://github.com/user-attachments/assets/daf5c623-dbc0-4d98-ac52-874cd9d71754  (Click the link to view the short video demo)
 
 
 This project is created as part of my QA automation practice and portfolio.
