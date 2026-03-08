@@ -1,0 +1,15 @@
+{
+  "ProductData":[
+    {
+      "productTobeSelected": ["Sauce Labs Backpack","Sauce Labs Onesie"],
+      "expectedPricebeforeTax": "37.98",
+      "expectedPriceAfterTax":"41.02"
+    },
+    {
+      "productTobeSelected": ["Sauce Labs Backpack"],
+      "expectedPricebeforeTax": "38.98",
+      "expectedPriceAfterTax":"8.02"
+    }
+  ]
+
+}

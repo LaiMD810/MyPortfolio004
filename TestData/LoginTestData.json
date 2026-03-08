@@ -1,0 +1,22 @@
+{
+  "loginData":[
+    {
+      "username": "standard_user",
+      "userpassword": "secret_sauce",
+      "expected": "Success"
+    },
+    {
+      "username": "locked_out_user",
+      "userpassword": "secret_sauce",
+      "expected": "Locked",
+      "errorMessage":"Epic sadface: Sorry, this user has been locked out."
+    },
+    {
+      "username": "Test123",
+      "userpassword": "test123",
+      "expected": "Failed",
+      "errorMessage":"Epic sadface: Username and password do not match any user in this service"
+    }
+  ]
+
+}
