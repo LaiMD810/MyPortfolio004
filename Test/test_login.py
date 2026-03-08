@@ -4,7 +4,7 @@ import pytest
 
 from POM_Pages.LoginPage import LoginPage
 
-testdatapath ='../TestData /LoginTestData.json'
+testdatapath ='../TestData/LoginTestData.json'
 with open(testdatapath) as f:
     test_data = json.load(f)["loginData"]
 
